@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "779922776976",
+    "project_id": "kanver-e8aa9",
+    "storage_bucket": "kanver-e8aa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779922776976:android:84430e1dbd2eaf5e210915",
+        "android_client_info": {
+          "package_name": "com.example.kanver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779922776976-odnbfhc87venj06oddpe9nq56cffvshh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kanver",
+            "certificate_hash": "d4764978542173c38d390c8a31f00f8df5162cad"
+          }
+        },
+        {
+          "client_id": "779922776976-7kqgeft23qr57bbv4prvvv776mic2ti4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIF44oZKL6hOauH7hmwR3dlcggLtoLDdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779922776976-7kqgeft23qr57bbv4prvvv776mic2ti4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
